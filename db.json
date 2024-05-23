@@ -1,0 +1,1 @@
+{"personas":[{"nombre":"LUIS","apellido":"GONZALEZ","cedula":"V-25444333","correo":"ejemplo01@gmail.com"},{"nombre":"FERNANDO","apellido":"JIMENEZ","cedula":"V-26444333","correo":"ejemplo02@gmail.com"}],"usuarios":[{"userName":"usuario01","password":123456789,"cedula_persona":"V-25444333"},{"userName":"usuario02","password":123456789,"cedula_persona":"V-26444333"}]}
